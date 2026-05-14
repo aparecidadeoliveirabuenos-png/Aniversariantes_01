@@ -1,0 +1,8 @@
+{
+  "name": "FestaFest - Gestor de Aniversários",
+  "description": "Sistema intuitivo para cadastro e acompanhamento de tarefas para celebrações de aniversários.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
